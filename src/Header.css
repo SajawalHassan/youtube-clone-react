@@ -3,6 +3,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #383737;
     border-bottom: 1px solid rgb(77, 74, 74);
 }
 
@@ -15,15 +19,11 @@
 .header__left {
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
-
-.header h1 {
-    color: white;
-}
 
 .icons {
-    color: white;
     margin-right: 20px;
     font-size: 30px !important;
     cursor: pointer;
@@ -47,7 +47,6 @@
     font-size: large;
     height: 30px;
     background-color: #181818;
-    color: white;
 }
 
 .header__inputbutton {
