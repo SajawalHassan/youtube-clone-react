@@ -29,7 +29,7 @@
 
 .sidebarRow:hover > .sidebarRow__title {
     transition: 300ms;
-    font-size: 23px;
+    font-size: 22px;
     font-weight: bold;
 }
 
