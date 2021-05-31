@@ -11,9 +11,9 @@
 }
 
 .header__logo {
-    font-size: 40px !important;
+    font-size: 70px !important;
     color: red;
-    margin-left: 20px;
+    margin-left: 50px;
 }
 
 .header__left {
@@ -47,6 +47,7 @@
     font-size: large;
     height: 30px;
     background-color: #181818;
+    color: white;
 }
 
 .header__inputbutton {
