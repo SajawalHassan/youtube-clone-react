@@ -1,9 +1,9 @@
-# Filter names
+# Youtube Clone
 
-Youtube clone which is fully responsive
+Youtube clone with embedded videos.
 NOTE! THIS PROJECT IS FOR PRACTICE
 
-Demo project: (https://youtube-clone-1f12.vercel.app/)
+Demo project: (https://sajawal-project-1f12.web.app/)
 
 # Installation:
    - clone project
@@ -11,9 +11,9 @@ Demo project: (https://youtube-clone-1f12.vercel.app/)
 
 # Usage:
     ```
-    Usage: youtube.js [OPTIONS]
+    Usage: App.js [OPTIONS]
 
-    Lets you search names.
+    Youtube clone with embedded videos.
     Developed by Sajawal Hassan -> (Github: SajawalHassan)
     ```
     
